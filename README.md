@@ -9,4 +9,5 @@ W-on/of showing game
 E-on/of slowing game and printing action probability  
 S-save the graph  
   
-You can uncomment lines 177,222-228 and comment lines 231-278 to play the game by yourself
+  
+(You can uncomment lines 177,222-228 and comment lines 231-278 to play the game by yourself)
