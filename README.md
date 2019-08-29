@@ -1,4 +1,4 @@
-# Snake-reinforcement-learning
+# Snake 5x5-reinforcement-learning
 ![](snake.gif)  
 Actor Critic reinforcement learning  
 Max points: 21 (23 length out of 25 fields)  
