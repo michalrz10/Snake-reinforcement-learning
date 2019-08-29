@@ -223,8 +223,9 @@ def game():
 				if event.key == pygame.K_UP: snake.setside(0)
 				elif event.key == pygame.K_DOWN: snake.setside(2)
 				elif event.key == pygame.K_RIGHT: snake.setside(1)
-				elif event.key == pygame.K_LEFT: snake.setside(3)'''
-
+				elif event.key == pygame.K_LEFT: snake.setside(3)
+			if event.type==25:
+				snake.move()'''
 
 		#ai move
 		for i in range(5): 
@@ -289,11 +290,4 @@ def game():
 			pygame.display.flip()
 			clock.tick(60)
 
-game()
-		
-		
-		
-		
-		
-		
-		
+game()	
